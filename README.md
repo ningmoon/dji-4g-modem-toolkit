@@ -1,3 +1,5 @@
+[简体中文](README.md) | [English](README_EN.md)
+
 # DJI 4G 模块 iPhone / iPad ECM 工具包
 
 最近大疆一代 4G 模块比较火🔥，就搞了一块试试，可玩性比较强，但是也因此二手市场被炒的比较高，性价比不高。

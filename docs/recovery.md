@@ -1,3 +1,5 @@
+[中文](recovery.md) | [English](en/recovery.md)
+
 # 恢复到 `usbnet=0`
 
 验证样机的原始网络模式是 `usbnet=0`，当前模式是 `usbnet=1`。下面的回退思路基于原始配置，但尚未在该样机上实际执行，因此属于 **UNVERIFIED** 操作。

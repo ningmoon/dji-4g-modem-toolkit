@@ -1,3 +1,5 @@
+[中文](technical-notes.md) | [English](en/technical-notes.md)
+
 # 技术说明与验证边界
 
 ## 为什么只改 `usbnet`

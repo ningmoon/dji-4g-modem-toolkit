@@ -1,3 +1,5 @@
+[中文](windows-wsl-setup.md) | [English](en/windows-wsl-setup.md)
+
 # Windows / WSL2 准备
 
 当 Windows 没有为 `2CA3:4006` 提供可用 AT 串口时，可以借助 WSL2、Ubuntu 和 `usbipd-win` 临时访问模块。这里的 USB attachment 和 Linux driver binding 都是主机临时状态，不会修改模块配置。
